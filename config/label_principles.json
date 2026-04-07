@@ -1,0 +1,14 @@
+{
+  "principles": [
+    {
+      "id": "P001",
+      "trigger": "Expense > $10",
+      "action": "Escalate to Human"
+    },
+    {
+      "id": "P002",
+      "trigger": "New Press Contact",
+      "action": "Categorize and draft intro"
+    }
+  ]
+}
