@@ -1,0 +1,9 @@
+ceo_agent:
+  name: "CEO Agent"
+  threshold: 0.7
+finance_agent:
+  name: "Finance Agent"
+  threshold: 0.9
+promo_agent:
+  name: "Promo Agent"
+  style: "Alternative/Indie"
